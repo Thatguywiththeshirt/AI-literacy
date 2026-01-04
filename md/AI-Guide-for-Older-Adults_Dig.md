@@ -1,8 +1,3 @@
-|AI for Ol<br>AI promises to change<br>but what is it really, and<br>adults? This guide provi<br>technology: the benefit<br>address the distinctive<br>lifestyle needs|Col2|
-|---|---|
-|AI promises to change<br>but what is it really, and<br>adults? This guide provi<br>technology: the beneft<br>address the distinctive<br>lifestyle needs<br>**AI for Ol**|the way we live and work,<br>      what does it mean for older<br>   des the facts about this new<br>  s, the risks, and how it can<br>   health-related, fnancial and<br>  of people age 50+.<br>**  der Adults**|
-
-
 ##### You may have heard about the rise of “artificial intelligence,” or AI, technology that is having an enormous impact on business and society right now. But what is it, and what does it mean in practical terms for the lifestyle of older adults? **What is AI?**
 
 The term “artificial intelligence” (AI) refers to systems that can “learn” by recognizing
@@ -793,5 +788,6 @@ newsletters at **[Seniorplanet.org/newsletters](http://www.seniorplanet.org/news
 
 - To get help finding a center or with general technology questions, call our free hotline to speak
 with a technology trainer today: 888-713-3495.
+
 
 
