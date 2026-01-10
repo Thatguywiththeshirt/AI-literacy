@@ -29,9 +29,6 @@ This repository contains source documents and working files for an AI literacy i
   - `#` for document titles,
   - `##` / `###` for sections,
   - standard lists and tables (no HTML where avoidable).
-
-## Contribution Tips
-
 - When editing Markdown, do not paste full copyrighted passages from the PDFs.
 - Prefer summaries, paraphrases, and short quoted phrases with proper attribution.
 - If you add new PDFs, keep names descriptive and sync the same name in `/md` when you create a Markdown version.
